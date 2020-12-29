@@ -1,6 +1,6 @@
 <h1> How you doin <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-### I'm Parv Garg, a Full Stack Blockchain Developer!
+### I'm BYOLARIS, a Full Stack Blockchain Developer!
 
 - 🔭 I’m currently working at as freelancer, so worldwide.
 - 🌱 I’m currently learning as much as I possibly can..😅
